@@ -1,0 +1,2 @@
+1) If users choose “Cancel” the screen shows a message like when users choose "no"
+2) We need to add parameter JOptionPane.YES_NO_OPTION in the method showConfirmDialog to customize the options to users.
